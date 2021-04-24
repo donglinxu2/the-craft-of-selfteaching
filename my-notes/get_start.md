@@ -6,3 +6,4 @@ ls : list
 
 cat : show content of the file
 
+git status : show the latest changes of all contents
